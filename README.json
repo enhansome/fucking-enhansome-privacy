@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🤖",
+          "title": "Authenticator Pro",
           "description": "4556⭐ 275🍴 Authenticator Pro) - Two-Factor Authentication (2FA) client for Android + Wear OS.",
           "children": [],
           "repo_info": {
@@ -15,12 +15,12 @@
             "last_commit": "2026-08-24T12:07:54Z",
             "owner": "stratumauth",
             "repo": "app",
-            "stars": 4555
+            "stars": 4556
           }
         },
         {
           "node_type": "item",
-          "title": "🤖",
+          "title": "FreeOTPPlus",
           "description": "745⭐ 90🍴 FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.",
           "children": [],
           "repo_info": {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T05:25:46Z",
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19231
+                "stars": 19235
               }
             },
             {
@@ -118,7 +118,7 @@
                     "last_commit": "2026-08-24T00:45:55Z",
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7308
+                    "stars": 7309
                   }
                 },
                 {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-21T15:28:42Z",
                 "owner": "Universal-Debloater-Alliance",
                 "repo": "universal-android-debloater-next-generation",
-                "stars": 8888
+                "stars": 8891
               }
             }
           ],
@@ -216,7 +216,7 @@
                 "last_commit": "2026-04-06T02:43:10Z",
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 8802
+                "stars": 8804
               }
             },
             {
@@ -236,7 +236,7 @@
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "Fossify File Manager",
               "description": "1724⭐ 119🍴 Fossify File Manager) - Open source file manager for Android with no ads, no tracking, and no internet permission. GPL-3.0 licensed.",
               "children": [],
               "repo_info": {
@@ -283,7 +283,7 @@
                 "last_commit": "2026-08-10T17:52:42Z",
                 "owner": "HeliBorg",
                 "repo": "HeliBoard",
-                "stars": 5922
+                "stars": 5924
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-25T02:43:50Z",
+                "last_commit": "2026-08-25T03:23:29Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179358
+                "stars": 179371
               }
             },
             {
@@ -442,10 +442,10 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:53:10Z",
+                "last_commit": "2026-08-25T06:05:24Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125479
+                "stars": 125501
               }
             },
             {
@@ -457,10 +457,10 @@
                 "archived": false,
                 "id": 615869301,
                 "language": "Go",
-                "last_commit": "2026-08-25T00:04:43Z",
+                "last_commit": "2026-08-25T04:03:18Z",
                 "owner": "mudler",
                 "repo": "LocalAI",
-                "stars": 48661
+                "stars": 48666
               }
             },
             {
@@ -472,10 +472,10 @@
                 "archived": false,
                 "id": 679506386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:08:18Z",
+                "last_commit": "2026-08-25T06:38:34Z",
                 "owner": "janhq",
                 "repo": "jan",
-                "stars": 44143
+                "stars": 44148
               }
             },
             {
@@ -524,10 +524,10 @@
                 "archived": false,
                 "id": 975734319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:47:24Z",
+                "last_commit": "2026-08-25T06:30:48Z",
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 201064
+                "stars": 201130
               }
             },
             {
@@ -542,7 +542,7 @@
                 "last_commit": "2026-08-24T16:42:22Z",
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 35616
+                "stars": 35620
               }
             },
             {
@@ -562,7 +562,7 @@
                     "last_commit": "2026-08-24T13:18:30Z",
                     "owner": "Zoo-Code-Org",
                     "repo": "Zoo-Code",
-                    "stars": 1720
+                    "stars": 1721
                   }
                 }
               ]
@@ -586,7 +586,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26139
+                "stars": 26140
               }
             },
             {
@@ -601,7 +601,7 @@
                 "last_commit": "2024-12-24T19:17:13Z",
                 "owner": "myshell-ai",
                 "repo": "MeloTTS",
-                "stars": 7602
+                "stars": 7603
               }
             },
             {
@@ -631,7 +631,7 @@
                 "last_commit": "2026-08-24T08:26:57Z",
                 "owner": "remsky",
                 "repo": "Kokoro-FastAPI",
-                "stars": 5371
+                "stars": 5372
               }
             },
             {
@@ -678,7 +678,7 @@
                         "last_commit": "2026-08-24T10:36:17Z",
                         "owner": "ggml-org",
                         "repo": "whisper.cpp",
-                        "stars": 53148
+                        "stars": 53155
                       }
                     },
                     {
@@ -693,7 +693,7 @@
                         "last_commit": "2025-11-19T14:40:46Z",
                         "owner": "SYSTRAN",
                         "repo": "faster-whisper",
-                        "stars": 25063
+                        "stars": 25066
                       }
                     }
                   ],
@@ -704,7 +704,7 @@
                     "last_commit": "2026-07-28T20:18:29Z",
                     "owner": "openai",
                     "repo": "whisper",
-                    "stars": 107891
+                    "stars": 107900
                   }
                 },
                 {
@@ -738,10 +738,10 @@
                     "archived": false,
                     "id": 1004647857,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T02:39:54Z",
+                    "last_commit": "2026-08-25T03:40:31Z",
                     "owner": "OpenWhispr",
                     "repo": "openwhispr",
-                    "stars": 5709
+                    "stars": 5710
                   }
                 },
                 {
@@ -756,7 +756,7 @@
                     "last_commit": "2026-08-20T18:40:25Z",
                     "owner": "speaches-ai",
                     "repo": "speaches",
-                    "stars": 3611
+                    "stars": 3612
                   }
                 },
                 {
@@ -795,7 +795,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164641
+                "stars": 164644
               }
             },
             {
@@ -807,10 +807,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:37:13Z",
+                "last_commit": "2026-08-25T06:25:27Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 129790
+                "stars": 129819
               }
             },
             {
@@ -822,10 +822,10 @@
                 "archived": false,
                 "id": 525592995,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:44:08Z",
+                "last_commit": "2026-08-25T04:53:06Z",
                 "owner": "invoke-ai",
                 "repo": "InvokeAI",
-                "stars": 27974
+                "stars": 27979
               }
             },
             {
@@ -995,7 +995,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🤖",
+          "title": "Etar",
           "description": "2588⭐ 446🍴 Etar) - Open-source calendar app for Android that works with any CalDAV server.",
           "children": [],
           "repo_info": {
@@ -1010,7 +1010,7 @@
         },
         {
           "node_type": "item",
-          "title": "🤖",
+          "title": "Fossify Calendar",
           "description": "2114⭐ 203🍴 Fossify Calendar) - Simple offline calendar app for Android with widget support.",
           "children": [],
           "repo_info": {
@@ -1025,7 +1025,7 @@
         },
         {
           "node_type": "item",
-          "title": "🤖",
+          "title": "KashCal",
           "description": "381⭐ 23🍴 KashCal) - Offline-first Android calendar with iCloud/CalDAV sync, full-text search, recurring events, and home screen widget. Apache 2.0 licensed.",
           "children": [],
           "repo_info": {
@@ -1083,7 +1083,7 @@
             "archived": false,
             "id": 585619089,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:14:00Z",
+            "last_commit": "2026-08-25T04:51:50Z",
             "owner": "carlitoplatanito",
             "repo": "disgus",
             "stars": 53
@@ -1185,10 +1185,10 @@
             "archived": false,
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:29:09Z",
+            "last_commit": "2026-08-25T06:28:09Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108363
+            "stars": 108368
           }
         },
         {
@@ -1221,10 +1221,10 @@
             "archived": false,
             "id": 162279822,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:48:05Z",
+            "last_commit": "2026-08-25T02:59:34Z",
             "owner": "agalwood",
             "repo": "Motrix",
-            "stars": 54493
+            "stars": 54514
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2024-01-23T01:08:10Z",
             "owner": "subhra74",
             "repo": "xdm",
-            "stars": 7887
+            "stars": 7888
           }
         },
         {
@@ -1323,10 +1323,10 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-25T01:57:06Z",
+            "last_commit": "2026-08-25T03:10:09Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44572
+            "stars": 44577
           }
         },
         {
@@ -1341,7 +1341,7 @@
             "last_commit": "2026-08-24T16:04:40Z",
             "owner": "schollz",
             "repo": "croc",
-            "stars": 40083
+            "stars": 40086
           }
         },
         {
@@ -1353,7 +1353,7 @@
             "archived": false,
             "id": 30582779,
             "language": "Python",
-            "last_commit": "2026-08-25T00:35:37Z",
+            "last_commit": "2026-08-25T04:09:40Z",
             "owner": "magic-wormhole",
             "repo": "magic-wormhole",
             "stars": 22868
@@ -1386,7 +1386,7 @@
             "last_commit": "2026-04-22T20:27:50Z",
             "owner": "schlagmichdoch",
             "repo": "PairDrop",
-            "stars": 11234
+            "stars": 11237
           }
         },
         {
@@ -1428,10 +1428,10 @@
             "archived": false,
             "id": 16027367,
             "language": "Go",
-            "last_commit": "2026-08-24T04:28:36Z",
+            "last_commit": "2026-08-25T04:15:48Z",
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3083
+            "stars": 3084
           }
         },
         {
@@ -1661,7 +1661,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "🤖",
+                  "title": "Molly",
                   "description": "3659⭐ 198🍴 Molly) - Signal-compatible fork client with some security enhancements.",
                   "children": [],
                   "repo_info": {
@@ -1671,7 +1671,7 @@
                     "last_commit": "2026-08-22T00:17:27Z",
                     "owner": "mollyim",
                     "repo": "mollyim-android",
-                    "stars": 3663
+                    "stars": 3664
                   }
                 }
               ]
@@ -1723,7 +1723,7 @@
                 "last_commit": "2026-08-24T14:18:34Z",
                 "owner": "Freika",
                 "repo": "dawarich",
-                "stars": 10180
+                "stars": 10182
               }
             }
           ],
@@ -1803,7 +1803,7 @@
                 "last_commit": "2026-08-20T17:55:12Z",
                 "owner": "mailcow",
                 "repo": "mailcow-dockerized",
-                "stars": 13318
+                "stars": 13319
               }
             },
             {
@@ -1832,7 +1832,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "🤖",
+                  "title": "FairEmail",
                   "description": "4577⭐ 695🍴 FairEmail) - Fully featured, open source, privacy friendly email app for Android.",
                   "children": [],
                   "repo_info": {
@@ -1866,10 +1866,10 @@
                 "archived": false,
                 "id": 228877522,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:44:40Z",
+                "last_commit": "2026-08-25T06:18:27Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6947
+                "stars": 6946
               }
             },
             {
@@ -1884,7 +1884,7 @@
                 "last_commit": "2026-07-30T13:24:24Z",
                 "owner": "anonaddy",
                 "repo": "anonaddy",
-                "stars": 4815
+                "stars": 4816
               }
             }
           ],
@@ -1924,7 +1924,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "mucke",
               "description": "256⭐ 11🍴 mucke) - A music player for local files with unique custom playback options.",
               "children": [],
               "repo_info": {
@@ -1949,7 +1949,7 @@
                 "last_commit": "2026-08-21T13:50:16Z",
                 "owner": "KRTirtho",
                 "repo": "spotube",
-                "stars": 48655
+                "stars": 48661
               }
             },
             {
@@ -1964,7 +1964,7 @@
                 "last_commit": "2026-08-18T03:13:14Z",
                 "owner": "jpochyla",
                 "repo": "psst",
-                "stars": 9464
+                "stars": 9465
               }
             },
             {
@@ -1999,7 +1999,7 @@
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "Blade Player",
               "description": "253⭐ 17🍴 Blade Player) - Open source Spotify client, works without premium.",
               "children": [],
               "repo_info": {
@@ -2026,10 +2026,10 @@
                     "archived": false,
                     "id": 628160489,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T18:48:27Z",
+                    "last_commit": "2026-08-25T03:38:20Z",
                     "owner": "maxrave-dev",
                     "repo": "SimpMusic",
-                    "stars": 10693
+                    "stars": 10690
                   }
                 }
               ],
@@ -2118,7 +2118,7 @@
             "last_commit": "2026-08-24T15:36:26Z",
             "owner": "usememos",
             "repo": "memos",
-            "stars": 62507
+            "stars": 62515
           }
         },
         {
@@ -2133,7 +2133,7 @@
             "last_commit": "2026-08-24T18:44:47Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56089
+            "stars": 56091
           }
         },
         {
@@ -2148,7 +2148,7 @@
             "last_commit": "2026-08-25T00:52:31Z",
             "owner": "siyuan-note",
             "repo": "siyuan",
-            "stars": 45966
+            "stars": 45971
           }
         },
         {
@@ -2160,10 +2160,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:48:03Z",
+            "last_commit": "2026-08-25T06:37:55Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37576
+            "stars": 37578
           }
         },
         {
@@ -2210,7 +2210,7 @@
                 "archived": false,
                 "id": 43505757,
                 "language": "Java",
-                "last_commit": "2026-08-24T05:10:03Z",
+                "last_commit": "2026-08-25T03:08:35Z",
                 "owner": "nextcloud",
                 "repo": "notes-android",
                 "stars": 1096
@@ -2221,7 +2221,7 @@
             "archived": false,
             "id": 71392749,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T23:28:54Z",
+            "last_commit": "2026-08-25T06:30:04Z",
             "owner": "nextcloud",
             "repo": "notes",
             "stars": 734
@@ -2245,7 +2245,7 @@
             "last_commit": "2026-08-20T18:10:50Z",
             "owner": "marin-m",
             "repo": "SongRec",
-            "stars": 1940
+            "stars": 1941
           }
         },
         {
@@ -2301,7 +2301,7 @@
                 "last_commit": "2026-08-24T17:38:24Z",
                 "owner": "dani-garcia",
                 "repo": "vaultwarden",
-                "stars": 66134
+                "stars": 66161
               }
             }
           ]
@@ -2336,10 +2336,10 @@
             "archived": false,
             "id": 16027367,
             "language": "Go",
-            "last_commit": "2026-08-24T04:28:36Z",
+            "last_commit": "2026-08-25T04:15:48Z",
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3083
+            "stars": 3084
           }
         },
         {
@@ -2374,10 +2374,10 @@
                 "archived": false,
                 "id": 1024661423,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T02:48:44Z",
+                "last_commit": "2026-08-25T06:34:05Z",
                 "owner": "we-promise",
                 "repo": "sure",
-                "stars": 9596
+                "stars": 9600
               }
             }
           ],
@@ -2525,7 +2525,7 @@
                 "last_commit": "2026-08-24T17:37:15Z",
                 "owner": "rotki",
                 "repo": "rotki",
-                "stars": 3991
+                "stars": 3992
               }
             }
           ],
@@ -2575,7 +2575,7 @@
                 "last_commit": "2026-07-29T16:35:30Z",
                 "owner": "qarmin",
                 "repo": "czkawka",
-                "stars": 32876
+                "stars": 32877
               }
             },
             {
@@ -2587,10 +2587,10 @@
                 "archived": false,
                 "id": 43975673,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:48:58Z",
+                "last_commit": "2026-08-25T03:36:56Z",
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10261
+                "stars": 10263
               }
             },
             {
@@ -2605,7 +2605,7 @@
                 "last_commit": "2026-08-23T18:27:58Z",
                 "owner": "CyberTimon",
                 "repo": "RapidRAW",
-                "stars": 9590
+                "stars": 9592
               }
             }
           ],
@@ -2674,10 +2674,10 @@
                 "archived": false,
                 "id": 455229168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:20:04Z",
+                "last_commit": "2026-08-25T05:52:33Z",
                 "owner": "immich-app",
                 "repo": "immich",
-                "stars": 112579
+                "stars": 112589
               }
             },
             {
@@ -2692,7 +2692,7 @@
                 "last_commit": "2026-08-19T19:55:30Z",
                 "owner": "LibrePhotos",
                 "repo": "librephotos",
-                "stars": 8048
+                "stars": 8049
               }
             },
             {
@@ -2840,7 +2840,7 @@
                 "last_commit": "2026-08-22T05:35:24Z",
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 36064
+                "stars": 36073
               }
             }
           ]
@@ -2939,7 +2939,7 @@
                 "last_commit": "2026-08-21T20:02:01Z",
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10202
+                "stars": 10203
               }
             },
             {
@@ -2984,12 +2984,12 @@
                 "last_commit": "2026-08-24T23:42:41Z",
                 "owner": "FreeTubeApp",
                 "repo": "FreeTube",
-                "stars": 21737
+                "stars": 21736
               }
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "LibreTube",
               "description": "12544⭐ 651🍴 LibreTube) - An alternative frontend for YouTube, for Android using Piped.",
               "children": [],
               "repo_info": {
@@ -3019,7 +3019,7 @@
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "SkyTube",
               "description": "2775⭐ 348🍴 SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.",
               "children": [],
               "repo_info": {
@@ -3029,12 +3029,12 @@
                 "last_commit": "2026-08-12T05:52:08Z",
                 "owner": "SkyTubeTeam",
                 "repo": "SkyTube",
-                "stars": 2775
+                "stars": 2776
               }
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "Clipious",
               "description": "1264⭐ 53🍴 Clipious) 💀 Invidious client for android",
               "children": [],
               "repo_info": {
@@ -3112,7 +3112,7 @@
                     "last_commit": "2026-08-24T15:36:26Z",
                     "owner": "usememos",
                     "repo": "memos",
-                    "stars": 62507
+                    "stars": 62515
                   }
                 }
               ],
@@ -3134,7 +3134,7 @@
                     "last_commit": "2025-06-27T20:23:51Z",
                     "owner": "nostr-protocol",
                     "repo": "nostr",
-                    "stars": 11996
+                    "stars": 11997
                   }
                 }
               ],
@@ -3274,7 +3274,7 @@
                 "last_commit": "2026-08-25T02:27:31Z",
                 "owner": "owncast",
                 "repo": "owncast",
-                "stars": 11469
+                "stars": 11470
               }
             },
             {
@@ -3289,7 +3289,7 @@
                 "last_commit": "2025-12-05T02:41:24Z",
                 "owner": "gwuhaolin",
                 "repo": "livego",
-                "stars": 10186
+                "stars": 10185
               }
             }
           ],
@@ -3357,7 +3357,7 @@
             "last_commit": "2026-08-24T15:05:44Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14638
+            "stars": 14640
           }
         },
         {
@@ -3408,7 +3408,7 @@
             "last_commit": "2026-08-25T02:03:05Z",
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29800
+            "stars": 29802
           }
         },
         {
@@ -3460,7 +3460,7 @@
             },
             {
               "node_type": "item",
-              "title": "🤖",
+              "title": "Aliucord",
               "description": "4845⭐ 229🍴 Aliucord) - A modification for the Android Discord app that fully 4845⭐ 229🍴 disables the Discord Tracking).",
               "children": [],
               "repo_info": {
@@ -3541,7 +3541,7 @@
             "last_commit": "2026-08-10T16:38:36Z",
             "owner": "OpenCut-app",
             "repo": "OpenCut",
-            "stars": 85686
+            "stars": 85699
           }
         },
         {
@@ -3556,7 +3556,7 @@
             "last_commit": "2026-08-21T09:03:12Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 43177
+            "stars": 43179
           }
         }
       ],
@@ -3579,7 +3579,7 @@
                 "last_commit": "2026-08-21T18:25:02Z",
                 "owner": "ungoogled-software",
                 "repo": "ungoogled-chromium",
-                "stars": 27513
+                "stars": 27516
               }
             }
           ],
@@ -3623,7 +3623,7 @@
                         "last_commit": "2026-08-23T13:37:57Z",
                         "owner": "gorhill",
                         "repo": "uBlock",
-                        "stars": 67255
+                        "stars": 67258
                       }
                     }
                   ]
@@ -3647,7 +3647,7 @@
                     "last_commit": "2026-08-05T14:41:22Z",
                     "owner": "gildas-lormeau",
                     "repo": "SingleFile",
-                    "stars": 22233
+                    "stars": 22237
                   }
                 }
               ],
@@ -3665,7 +3665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:09.387Z",
+    "last_updated": "2026-08-25T06:39:51.311Z",
     "original_repository": "Correia-jpv/fucking-awesome-privacy",
     "original_repository_id": 520640800,
     "original_repository_sha": "43a48e2e4425898b54c40c19a43da16966a2f964",
