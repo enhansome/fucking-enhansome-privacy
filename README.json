@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Stratum",
-          "description": "4609⭐ 282🍴 Stratum) - Two-Factor Authentication (2FA) client for Android + Wear OS.",
+          "description": "4615⭐ 282🍴 Stratum) - Two-Factor Authentication (2FA) client for Android + Wear OS.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,7 +45,7 @@
         {
           "node_type": "item",
           "title": "FreeOTPPlus",
-          "description": "748⭐ 89🍴 FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.",
+          "description": "749⭐ 89🍴 FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "20272⭐ 625🍴 Obtainium",
+              "title": "20317⭐ 628🍴 Obtainium",
               "description": ") - Get app updates directly from the source.",
               "children": [],
               "repo_info": {
@@ -118,7 +118,7 @@
                 "open_issues": 400,
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 20312,
+                "stars": 20334,
                 "topics": [
                   "android",
                   "apk",
@@ -156,7 +156,7 @@
                 "open_issues": 53,
                 "owner": "accrescent",
                 "repo": "accrescent",
-                "stars": 2282,
+                "stars": 2280,
                 "topics": [
                   "android",
                   "appstore",
@@ -203,7 +203,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "7554⭐ 231🍴 Droid-ify",
+                  "title": "7567⭐ 231🍴 Droid-ify",
                   "description": ") - Lightweight F-Droid client with Material UI.",
                   "children": [],
                   "repo_info": {
@@ -217,7 +217,7 @@
                     "open_issues": 196,
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7565,
+                    "stars": 7572,
                     "topics": [
                       "android",
                       "android-application",
@@ -245,14 +245,14 @@
                     "open_issues": 71,
                     "owner": "kitsunyan",
                     "repo": "foxy-droid",
-                    "stars": 719,
+                    "stars": 720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "166⭐ 9🍴 Aurora Droid",
+                  "title": "167⭐ 9🍴 Aurora Droid",
                   "description": ") 💀 - Aurora Droid is a modern FOSS client for F-Droid.",
                   "children": [],
                   "repo_info": {
@@ -266,7 +266,7 @@
                     "open_issues": 3,
                     "owner": "whyorean",
                     "repo": "AuroraDroid",
-                    "stars": 166,
+                    "stars": 167,
                     "topics": []
                   },
                   "first_seen": "2026-10-01T07:54:52.864Z"
@@ -296,7 +296,7 @@
                 "open_issues": 274,
                 "owner": "Universal-Debloater-Alliance",
                 "repo": "universal-android-debloater-next-generation",
-                "stars": 9374,
+                "stars": 9382,
                 "topics": [
                   "adb",
                   "android",
@@ -319,7 +319,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1353⭐ 213🍴 Fossify Phone",
+              "title": "1356⭐ 214🍴 Fossify Phone",
               "description": ") - A handy phone call manager with phonebook, number blocking and multi-SIM support.",
               "children": [],
               "repo_info": {
@@ -329,11 +329,11 @@
                 "id": 499759123,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T21:23:25Z",
+                "last_commit": "2026-10-11T04:21:15Z",
                 "open_issues": 167,
                 "owner": "FossifyOrg",
                 "repo": "Phone",
-                "stars": 1355,
+                "stars": 1358,
                 "topics": [
                   "android",
                   "dialer",
@@ -353,7 +353,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9158⭐ 753🍴 Material Files",
+              "title": "9170⭐ 752🍴 Material Files",
               "description": ") - An open source Material Design file manager, for Android 5.0+.",
               "children": [],
               "repo_info": {
@@ -364,10 +364,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T11:11:17Z",
-                "open_issues": 617,
+                "open_issues": 619,
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 9169,
+                "stars": 9175,
                 "topics": [
                   "android",
                   "android-application",
@@ -381,7 +381,7 @@
             },
             {
               "node_type": "item",
-              "title": "6416⭐ 1697🍴 Amaze File Manager",
+              "title": "6420⭐ 1696🍴 Amaze File Manager",
               "description": ") - Simple and attractive Material Design file manager for Android.",
               "children": [],
               "repo_info": {
@@ -392,7 +392,7 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T21:06:46Z",
-                "open_issues": 640,
+                "open_issues": 643,
                 "owner": "TeamAmaze",
                 "repo": "AmazeFileManager",
                 "stars": 6420,
@@ -415,7 +415,7 @@
             {
               "node_type": "item",
               "title": "Fossify File Manager",
-              "description": "1793⭐ 130🍴 Fossify File Manager) - Open source file manager for Android with no ads, no tracking, and no internet permission. GPL-3.0 licensed.",
+              "description": "1796⭐ 130🍴 Fossify File Manager) - Open source file manager for Android with no ads, no tracking, and no internet permission. GPL-3.0 licensed.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,8 +424,8 @@
                 "id": 496918131,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T21:22:36Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-11T04:30:35Z",
+                "open_issues": 94,
                 "owner": "FossifyOrg",
                 "repo": "File-Manager",
                 "stars": 1797,
@@ -448,7 +448,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "8694⭐ 743🍴 FlorisBoard",
+              "title": "8696⭐ 744🍴 FlorisBoard",
               "description": ") - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.",
               "children": [],
               "repo_info": {
@@ -475,7 +475,7 @@
             },
             {
               "node_type": "item",
-              "title": "6292⭐ 576🍴 Heliboard",
+              "title": "6309⭐ 583🍴 Heliboard",
               "description": ") - A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing.",
               "children": [],
               "repo_info": {
@@ -486,17 +486,17 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T14:35:19Z",
-                "open_issues": 842,
+                "open_issues": 847,
                 "owner": "HeliBorg",
                 "repo": "HeliBoard",
-                "stars": 6306,
+                "stars": 6315,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "2748⭐ 315🍴 OpenBoard",
+              "title": "2750⭐ 316🍴 OpenBoard",
               "description": ") 💀 - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy. It is no longer updated, but still works.",
               "children": [],
               "repo_info": {
@@ -510,14 +510,14 @@
                 "open_issues": 431,
                 "owner": "openboard-team",
                 "repo": "openboard",
-                "stars": 2748,
+                "stars": 2750,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "1594⭐ 352🍴 Simple Keyboard",
+              "title": "1594⭐ 353🍴 Simple Keyboard",
               "description": ") - Simply keyboard and nothing more.",
               "children": [],
               "repo_info": {
@@ -531,7 +531,7 @@
                 "open_issues": 57,
                 "owner": "rkkr",
                 "repo": "simple-keyboard",
-                "stars": 1594,
+                "stars": 1595,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
@@ -545,7 +545,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5361⭐ 238🍴 Aves",
+              "title": "5369⭐ 240🍴 Aves",
               "description": ") - Beautiful gallery and metadata explorer app, built for Android with Flutter.",
               "children": [],
               "repo_info": {
@@ -555,11 +555,11 @@
                 "id": 200468551,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T15:37:18Z",
-                "open_issues": 164,
+                "last_commit": "2026-10-11T00:20:04Z",
+                "open_issues": 163,
                 "owner": "deckerst",
                 "repo": "aves",
-                "stars": 5368,
+                "stars": 5370,
                 "topics": [
                   "android",
                   "exif",
@@ -582,7 +582,7 @@
             },
             {
               "node_type": "item",
-              "title": "3768⭐ 270🍴 Fossify Gallery",
+              "title": "3776⭐ 268🍴 Fossify Gallery",
               "description": ") - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.",
               "children": [],
               "repo_info": {
@@ -592,11 +592,11 @@
                 "id": 502586319,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T21:22:41Z",
-                "open_issues": 317,
+                "last_commit": "2026-10-11T04:30:40Z",
+                "open_issues": 316,
                 "owner": "FossifyOrg",
                 "repo": "Gallery",
-                "stars": 3773,
+                "stars": 3782,
                 "topics": [
                   "android",
                   "foss",
@@ -616,7 +616,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3858⭐ 519🍴 Olauncher",
+              "title": "3862⭐ 521🍴 Olauncher",
               "description": ") - Minimal AF (ad-free) launcher app for Android.",
               "children": [],
               "repo_info": {
@@ -627,10 +627,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T10:29:29Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "tanujnotes",
                 "repo": "Olauncher",
-                "stars": 3862,
+                "stars": 3864,
                 "topics": [
                   "android",
                   "android-launcher",
@@ -649,7 +649,7 @@
             },
             {
               "node_type": "item",
-              "title": "1524⭐ 418🍴 OpenLauncher",
+              "title": "1523⭐ 416🍴 OpenLauncher",
               "description": ") 💀 - Customizable and Open Source Launcher for Android.",
               "children": [],
               "repo_info": {
@@ -717,7 +717,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "182569⭐ 18156🍴 ollama",
+              "title": "182617⭐ 18185🍴 ollama",
               "description": ") - Get up and running with Llama 2 and other large language models locally.",
               "children": [],
               "repo_info": {
@@ -727,11 +727,11 @@
                 "id": 658928958,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-10T07:31:41Z",
-                "open_issues": 4236,
+                "last_commit": "2026-10-11T06:52:52Z",
+                "open_issues": 4242,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 182578,
+                "stars": 182684,
                 "topics": [
                   "deepseek",
                   "gemma",
@@ -754,7 +754,7 @@
             },
             {
               "node_type": "item",
-              "title": "130686⭐ 24196🍴 llama.cpp",
+              "title": "130738⭐ 24266🍴 llama.cpp",
               "description": ") - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.",
               "children": [],
               "repo_info": {
@@ -764,11 +764,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:15:43Z",
-                "open_issues": 2487,
+                "last_commit": "2026-10-10T19:31:18Z",
+                "open_issues": 2512,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 130684,
+                "stars": 130795,
                 "topics": [
                   "ggml"
                 ]
@@ -777,7 +777,7 @@
             },
             {
               "node_type": "item",
-              "title": "49433⭐ 4488🍴 LocalAI",
+              "title": "49458⭐ 4493🍴 LocalAI",
               "description": ") - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.",
               "children": [],
               "repo_info": {
@@ -787,11 +787,11 @@
                 "id": 615869301,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:30:04Z",
-                "open_issues": 192,
+                "last_commit": "2026-10-11T04:06:09Z",
+                "open_issues": 200,
                 "owner": "mudler",
                 "repo": "LocalAI",
-                "stars": 49453,
+                "stars": 49467,
                 "topics": [
                   "agents",
                   "ai",
@@ -817,7 +817,7 @@
             },
             {
               "node_type": "item",
-              "title": "44851⭐ 3074🍴 Jan",
+              "title": "44877⭐ 3080🍴 Jan",
               "description": ") - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
               "children": [],
               "repo_info": {
@@ -828,10 +828,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T02:57:20Z",
-                "open_issues": 549,
+                "open_issues": 547,
                 "owner": "janhq",
                 "repo": "jan",
-                "stars": 44870,
+                "stars": 44879,
                 "topics": [
                   "chatgpt",
                   "gpt",
@@ -847,7 +847,7 @@
             },
             {
               "node_type": "item",
-              "title": "5952⭐ 582🍴 Shimmy",
+              "title": "5963⭐ 585🍴 Shimmy",
               "description": ") - Privacy-focused AI inference server with OpenAI API compatibility, zero cloud dependencies, and local model processing.",
               "children": [],
               "repo_info": {
@@ -861,7 +861,7 @@
                 "open_issues": 13,
                 "owner": "Michael-A-Kuykendall",
                 "repo": "shimmy",
-                "stars": 5961,
+                "stars": 5964,
                 "topics": [
                   "api-server",
                   "command-line-tool",
@@ -889,7 +889,7 @@
             },
             {
               "node_type": "item",
-              "title": "762⭐ 41🍴 PasteGuard",
+              "title": "761⭐ 41🍴 PasteGuard",
               "description": ") - Privacy proxy for LLM APIs that masks PII and secrets before they reach cloud providers. Self-hosted, OpenAI-compatible, and restores original data in responses.",
               "children": [],
               "repo_info": {
@@ -903,7 +903,7 @@
                 "open_issues": 6,
                 "owner": "sgasser",
                 "repo": "pasteguard",
-                "stars": 761,
+                "stars": 762,
                 "topics": [
                   "anthropic",
                   "browser-extension",
@@ -946,18 +946,18 @@
                 "id": 975734319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T07:25:43Z",
-                "open_issues": 6131,
+                "last_commit": "2026-10-11T07:53:53Z",
+                "open_issues": 5206,
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 212451,
+                "stars": 212613,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "36156⭐ 5455🍴 Continue",
+              "title": "36169⭐ 5460🍴 Continue",
               "description": ") - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM",
               "children": [],
               "repo_info": {
@@ -968,10 +968,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T21:22:45Z",
-                "open_issues": 832,
+                "open_issues": 830,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36167,
+                "stars": 36176,
                 "topics": [
                   "agent",
                   "ai",
@@ -989,7 +989,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "1961⭐ 305🍴 Zoo Code",
+                  "title": "1971⭐ 309🍴 Zoo Code",
                   "description": ") - Cline fork with some improvements; community successor to the discontinued Roo Code.",
                   "children": [],
                   "repo_info": {
@@ -999,11 +999,11 @@
                     "id": 1219468224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T03:08:49Z",
-                    "open_issues": 828,
+                    "last_commit": "2026-10-11T05:43:03Z",
+                    "open_issues": 839,
                     "owner": "Zoo-Code-Org",
                     "repo": "Zoo-Code",
-                    "stars": 1969,
+                    "stars": 1971,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
@@ -1019,7 +1019,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "26803⭐ 3604🍴 Chatterbox",
+              "title": "26829⭐ 3607🍴 Chatterbox",
               "description": ") - Local text-to-speech model with voice cloning that runs entirely on your own machine. Open source, MIT licensed.",
               "children": [],
               "repo_info": {
@@ -1030,17 +1030,17 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-21T12:27:05Z",
-                "open_issues": 373,
+                "open_issues": 374,
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26823,
+                "stars": 26838,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "6929⭐ 1314🍴 Espeak",
+              "title": "6931⭐ 1315🍴 Espeak",
               "description": ") - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.",
               "children": [],
               "repo_info": {
@@ -1051,10 +1051,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-22T10:58:46Z",
-                "open_issues": 644,
+                "open_issues": 645,
                 "owner": "espeak-ng",
                 "repo": "espeak-ng",
-                "stars": 6931,
+                "stars": 6932,
                 "topics": [
                   "android",
                   "espeak",
@@ -1067,7 +1067,7 @@
             },
             {
               "node_type": "item",
-              "title": "5798⭐ 561🍴 Piper",
+              "title": "5818⭐ 564🍴 Piper",
               "description": ") - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.",
               "children": [],
               "repo_info": {
@@ -1077,18 +1077,18 @@
                 "id": 956792596,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T21:23:53Z",
-                "open_issues": 144,
+                "last_commit": "2026-10-11T01:59:28Z",
+                "open_issues": 142,
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5809,
+                "stars": 5823,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "5519⭐ 914🍴 Kokoro FastAPI",
+              "title": "5527⭐ 917🍴 Kokoro FastAPI",
               "description": ") - Dockerized FastAPI wrapper for 🌎 Kokoro-82M text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.",
               "children": [],
               "repo_info": {
@@ -1099,10 +1099,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T20:33:42Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "remsky",
                 "repo": "Kokoro-FastAPI",
-                "stars": 5525,
+                "stars": 5527,
                 "topics": [
                   "fastapi",
                   "kokoro",
@@ -1140,12 +1140,12 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "110151⭐ 13345🍴 OpenAI Whisper",
+                  "title": "110275⭐ 13364🍴 OpenAI Whisper",
                   "description": ") - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.",
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "54223⭐ 6211🍴 whisper.cpp",
+                      "title": "54267⭐ 6222🍴 whisper.cpp",
                       "description": ") - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.",
                       "children": [],
                       "repo_info": {
@@ -1155,11 +1155,11 @@
                         "id": 541269386,
                         "language": "C++",
                         "license": "MIT",
-                        "last_commit": "2026-10-06T17:39:15Z",
+                        "last_commit": "2026-10-11T04:01:46Z",
                         "open_issues": 352,
                         "owner": "ggml-org",
                         "repo": "whisper.cpp",
-                        "stars": 54262,
+                        "stars": 54283,
                         "topics": [
                           "inference",
                           "openai",
@@ -1173,7 +1173,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "25759⭐ 2117🍴 faster-whisper",
+                      "title": "25800⭐ 2119🍴 faster-whisper",
                       "description": ") - Reimplementation of Whisper using CTranslate2 that transcribes locally up to four times faster. MIT licensed.",
                       "children": [],
                       "repo_info": {
@@ -1187,7 +1187,7 @@
                         "open_issues": 30,
                         "owner": "SYSTRAN",
                         "repo": "faster-whisper",
-                        "stars": 25786,
+                        "stars": 25804,
                         "topics": [
                           "deep-learning",
                           "inference",
@@ -1213,14 +1213,14 @@
                     "open_issues": 169,
                     "owner": "openai",
                     "repo": "whisper",
-                    "stars": 110260,
+                    "stars": 110300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "11196⭐ 618🍴 Moonshine",
+                  "title": "11202⭐ 619🍴 Moonshine",
                   "description": ") - Fast and accurate automatic speech recognition (ASR) for edge devices.",
                   "children": [],
                   "repo_info": {
@@ -1234,7 +1234,7 @@
                     "open_issues": 12,
                     "owner": "moonshine-ai",
                     "repo": "moonshine",
-                    "stars": 11202,
+                    "stars": 11207,
                     "topics": [
                       "intent-recognition",
                       "stt",
@@ -1254,7 +1254,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "9154⭐ 1135🍴 OpenWhispr",
+                  "title": "9226⭐ 1144🍴 OpenWhispr",
                   "description": ") - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.",
                   "children": [],
                   "repo_info": {
@@ -1265,10 +1265,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-10T01:40:57Z",
-                    "open_issues": 438,
+                    "open_issues": 440,
                     "owner": "OpenWhispr",
                     "repo": "openwhispr",
-                    "stars": 9213,
+                    "stars": 9244,
                     "topics": [
                       "ai",
                       "anthropic",
@@ -1291,7 +1291,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "3705⭐ 458🍴 Speaches",
+                  "title": "3708⭐ 458🍴 Speaches",
                   "description": ") - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.",
                   "children": [],
                   "repo_info": {
@@ -1364,7 +1364,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "136610⭐ 16215🍴 ComfyUI",
+              "title": "136764⭐ 16276🍴 ComfyUI",
               "description": ") - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.",
               "children": [],
               "repo_info": {
@@ -1374,11 +1374,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T07:30:25Z",
-                "open_issues": 5118,
+                "last_commit": "2026-10-11T06:01:17Z",
+                "open_issues": 5127,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 136695,
+                "stars": 136837,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1392,7 +1392,7 @@
             },
             {
               "node_type": "item",
-              "title": "28458⭐ 3006🍴 InvokeAI",
+              "title": "28524⭐ 3024🍴 InvokeAI",
               "description": ") - Generate and create stunning visual media using the latest AI-driven technologies locally.",
               "children": [],
               "repo_info": {
@@ -1402,11 +1402,11 @@
                 "id": 525592995,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T05:00:45Z",
-                "open_issues": 388,
+                "last_commit": "2026-10-11T04:21:02Z",
+                "open_issues": 400,
                 "owner": "invoke-ai",
                 "repo": "InvokeAI",
-                "stars": 28509,
+                "stars": 28554,
                 "topics": [
                   "ai-art",
                   "artificial-intelligence",
@@ -1427,7 +1427,7 @@
             },
             {
               "node_type": "item",
-              "title": "4638⭐ 467🍴 SwarmUI",
+              "title": "4649⭐ 468🍴 SwarmUI",
               "description": ") - Local web interface for Stable Diffusion and other diffusion models, built on a ComfyUI backend. MIT licensed.",
               "children": [],
               "repo_info": {
@@ -1438,10 +1438,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T16:25:23Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "mcmonkeyprojects",
                 "repo": "SwarmUI",
-                "stars": 4649,
+                "stars": 4651,
                 "topics": [
                   "ai",
                   "comfyui",
@@ -1479,8 +1479,8 @@
             "id": 118617559,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-07-10T06:36:40Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-11T07:44:02Z",
+            "open_issues": 121,
             "owner": "go-shiori",
             "repo": "shiori",
             "stars": 11665,
@@ -1497,7 +1497,7 @@
         },
         {
           "node_type": "item",
-          "title": "11280⭐ 643🍴 LinkDing",
+          "title": "11290⭐ 644🍴 LinkDing",
           "description": ") - Open source, self-hosted bookmark manager built to be minimal, fast, and easy to run with Docker (MIT).",
           "children": [],
           "repo_info": {
@@ -1508,10 +1508,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T17:49:41Z",
-            "open_issues": 229,
+            "open_issues": 230,
             "owner": "sissbruecker",
             "repo": "linkding",
-            "stars": 11289,
+            "stars": 11290,
             "topics": [
               "bookmark-manager",
               "bookmark-service",
@@ -1523,7 +1523,7 @@
         },
         {
           "node_type": "item",
-          "title": "3343⭐ 206🍴 LinkAce",
+          "title": "3343⭐ 207🍴 LinkAce",
           "description": ") - Open source, self-hosted bookmark archive that monitors and organizes your saved links (GPL-3.0).",
           "children": [],
           "repo_info": {
@@ -1557,7 +1557,7 @@
         },
         {
           "node_type": "item",
-          "title": "2864⭐ 88🍴 Grimoire",
+          "title": "2865⭐ 88🍴 Grimoire",
           "description": ") - Modern, open source, self-hosted bookmark manager.",
           "children": [],
           "repo_info": {
@@ -1571,7 +1571,7 @@
             "open_issues": 15,
             "owner": "goniszewski",
             "repo": "grimoire",
-            "stars": 2865,
+            "stars": 2867,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -1603,7 +1603,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-09T20:25:51Z",
-                "open_issues": 227,
+                "open_issues": 228,
                 "owner": "hypothesis",
                 "repo": "h",
                 "stars": 3189,
@@ -1670,7 +1670,7 @@
             "open_issues": 54,
             "owner": "mCaptcha",
             "repo": "mCaptcha",
-            "stars": 2490,
+            "stars": 2492,
             "topics": [
               "actix-web",
               "captcha",
@@ -1689,7 +1689,7 @@
         },
         {
           "node_type": "item",
-          "title": "195⭐ 8🍴 Private Captcha",
+          "title": "196⭐ 8🍴 Private Captcha",
           "description": ") - Privacy-first and self-hosted Proof-of-Work CAPTCHA alternative, made in EU.",
           "children": [],
           "repo_info": {
@@ -1699,11 +1699,11 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T07:19:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-11T05:56:32Z",
+            "open_issues": 6,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
-            "stars": 195,
+            "stars": 197,
             "topics": [
               "anti-abuse",
               "anti-bot",
@@ -1729,7 +1729,7 @@
         {
           "node_type": "item",
           "title": "Etar",
-          "description": "2610⭐ 448🍴 Etar) - Open-source calendar app for Android that works with any CalDAV server.",
+          "description": "2613⭐ 447🍴 Etar) - Open-source calendar app for Android that works with any CalDAV server.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1738,8 +1738,8 @@
             "id": 41903441,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T13:52:18Z",
-            "open_issues": 400,
+            "last_commit": "2026-10-11T01:36:04Z",
+            "open_issues": 401,
             "owner": "Etar-Group",
             "repo": "Etar-Calendar",
             "stars": 2613,
@@ -1754,7 +1754,7 @@
         {
           "node_type": "item",
           "title": "Fossify Calendar",
-          "description": "2206⭐ 226🍴 Fossify Calendar) - Simple offline calendar app for Android with widget support.",
+          "description": "2215⭐ 227🍴 Fossify Calendar) - Simple offline calendar app for Android with widget support.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,11 +1763,11 @@
             "id": 492611621,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T21:22:04Z",
+            "last_commit": "2026-10-11T04:30:11Z",
             "open_issues": 314,
             "owner": "FossifyOrg",
             "repo": "Calendar",
-            "stars": 2213,
+            "stars": 2218,
             "topics": [
               "android",
               "calendar",
@@ -1781,7 +1781,7 @@
         {
           "node_type": "item",
           "title": "KashCal",
-          "description": "435⭐ 32🍴 KashCal) - Offline-first Android calendar with iCloud/CalDAV sync, full-text search, recurring events, and home screen widget. Apache 2.0 licensed.",
+          "description": "439⭐ 33🍴 KashCal) - Offline-first Android calendar with iCloud/CalDAV sync, full-text search, recurring events, and home screen widget. Apache 2.0 licensed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1791,10 +1791,10 @@
             "language": "Kotlin",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T14:26:26Z",
-            "open_issues": 49,
+            "open_issues": 52,
             "owner": "KashCal",
             "repo": "KashCal",
-            "stars": 437,
+            "stars": 440,
             "topics": [
               "alternative-calendar",
               "android",
@@ -1828,7 +1828,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "5309⭐ 462🍴 Isso",
+          "title": "5310⭐ 462🍴 Isso",
           "description": ") - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.",
           "children": [],
           "repo_info": {
@@ -1842,7 +1842,7 @@
             "open_issues": 62,
             "owner": "isso-comments",
             "repo": "isso",
-            "stars": 5310,
+            "stars": 5311,
             "topics": [
               "commenting",
               "disqus",
@@ -1869,7 +1869,7 @@
             "open_issues": 7,
             "owner": "carlitoplatanito",
             "repo": "disgus",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "comment-system",
               "comments",
@@ -1928,7 +1928,7 @@
                 "open_issues": 44,
                 "owner": "Shawn-Shan",
                 "repo": "fawkes",
-                "stars": 5615,
+                "stars": 5614,
                 "topics": [
                   "adversarial-machine-learning",
                   "face-recognition",
@@ -1940,7 +1940,7 @@
             },
             {
               "node_type": "item",
-              "title": "1017⭐ 88🍴 ImageScrubber",
+              "title": "1016⭐ 88🍴 ImageScrubber",
               "description": ") 💀 - A friendly browser-based tool for anonymizing photographs taken at protests 🌎 hosted version provided by everestpipkin).",
               "children": [],
               "repo_info": {
@@ -1969,7 +1969,7 @@
             {
               "node_type": "item",
               "title": "🌎 Stegcloak",
-              "description": "💀 - Hide secrets with invisible characters in plain text securely using passwords ( 3902⭐ 253🍴 repo)).",
+              "description": "💀 - Hide secrets with invisible characters in plain text securely using passwords ( 3904⭐ 251🍴 repo)).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2022,7 +2022,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1150⭐ 205🍴 socialstream.ninja",
+              "title": "1150⭐ 206🍴 socialstream.ninja",
               "description": ") - Consolidate your live social messaging streams and much more.",
               "children": [],
               "repo_info": {
@@ -2032,11 +2032,11 @@
                 "id": 411763424,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T05:03:29Z",
-                "open_issues": 221,
+                "last_commit": "2026-10-11T01:01:08Z",
+                "open_issues": 222,
                 "owner": "steveseguin",
                 "repo": "social_stream",
-                "stars": 1150,
+                "stars": 1152,
                 "topics": []
               },
               "first_seen": "2026-10-01T07:54:52.864Z"
@@ -2061,11 +2061,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T05:57:03Z",
-            "open_issues": 1146,
+            "last_commit": "2026-10-11T00:43:52Z",
+            "open_issues": 1150,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111292,
+            "stars": 111331,
             "topics": [
               "ai",
               "alternative",
@@ -2100,7 +2100,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "133675⭐ 15621🍴 Excalidraw",
+              "title": "133601⭐ 15635🍴 Excalidraw",
               "description": ") - Virtual whiteboard for sketching hand-drawn like diagrams.",
               "children": [],
               "repo_info": {
@@ -2110,11 +2110,11 @@
                 "id": 231283452,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:30:28Z",
-                "open_issues": 3259,
+                "last_commit": "2026-10-10T21:34:02Z",
+                "open_issues": 3260,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 133577,
+                "stars": 133631,
                 "topics": [
                   "canvas",
                   "collaboration",
@@ -2140,7 +2140,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "56205⭐ 5042🍴 Motrix",
+          "title": "56326⭐ 5051🍴 Motrix",
           "description": ") - A full-featured download manager.",
           "children": [],
           "repo_info": {
@@ -2150,11 +2150,11 @@
             "id": 162279822,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T07:33:07Z",
+            "last_commit": "2026-10-10T15:01:00Z",
             "open_issues": 148,
             "owner": "agalwood",
             "repo": "Motrix",
-            "stars": 56252,
+            "stars": 56413,
             "topics": [
               "aria2",
               "bt",
@@ -2173,7 +2173,7 @@
         },
         {
           "node_type": "item",
-          "title": "7964⭐ 1192🍴 Xtreme Download Manager",
+          "title": "7970⭐ 1192🍴 Xtreme Download Manager",
           "description": ") - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.",
           "children": [],
           "repo_info": {
@@ -2184,10 +2184,10 @@
             "language": "Kotlin",
             "license": "GPL-2.0",
             "last_commit": "2026-10-07T22:33:54Z",
-            "open_issues": 856,
+            "open_issues": 857,
             "owner": "subhra74",
             "repo": "xdm",
-            "stars": 7969,
+            "stars": 7973,
             "topics": [
               "chrome",
               "download-accelerator",
@@ -2208,7 +2208,7 @@
         },
         {
           "node_type": "item",
-          "title": "7472⭐ 708🍴 Persepolis Download Manager",
+          "title": "7471⭐ 708🍴 Persepolis Download Manager",
           "description": ") - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.",
           "children": [],
           "repo_info": {
@@ -2264,7 +2264,7 @@
             "open_issues": 87,
             "owner": "axel-download-accelerator",
             "repo": "axel",
-            "stars": 3418,
+            "stars": 3419,
             "topics": [
               "accelerate",
               "downloader",
@@ -2283,7 +2283,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "11822⭐ 682🍴 Kavita",
+          "title": "11828⭐ 682🍴 Kavita",
           "description": ") - Cross-platform self-hosted digital library for ebooks and comics with a built-in web reader (GPL-3.0).",
           "children": [],
           "repo_info": {
@@ -2293,11 +2293,11 @@
             "id": 320936145,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T22:17:59Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-10T23:34:01Z",
+            "open_issues": 176,
             "owner": "Kareadita",
             "repo": "Kavita",
-            "stars": 11824,
+            "stars": 11829,
             "topics": [
               "annotations",
               "cbz",
@@ -2325,7 +2325,7 @@
         },
         {
           "node_type": "item",
-          "title": "6721⭐ 416🍴 Komga",
+          "title": "6728⭐ 416🍴 Komga",
           "description": ") - Self-hosted media server for comics, magazines, and ebooks with a responsive web interface and OPDS support (MIT).",
           "children": [],
           "repo_info": {
@@ -2339,7 +2339,7 @@
             "open_issues": 11,
             "owner": "gotson",
             "repo": "komga",
-            "stars": 6728,
+            "stars": 6731,
             "topics": [
               "api",
               "comics",
@@ -2365,7 +2365,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "46398⭐ 3209🍴 Paperless-ngx",
+          "title": "46475⭐ 3218🍴 Paperless-ngx",
           "description": ") - A community-supported supercharged version of paperless based on paperless-ng",
           "children": [],
           "repo_info": {
@@ -2375,11 +2375,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T04:08:19Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-11T01:03:54Z",
+            "open_issues": 5,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46455,
+            "stars": 46494,
             "topics": [
               "ai",
               "angular",
@@ -2399,7 +2399,7 @@
         },
         {
           "node_type": "item",
-          "title": "40531⭐ 1625🍴 Croc",
+          "title": "40544⭐ 1628🍴 Croc",
           "description": ") - Easily and securely send things from one computer to another.",
           "children": [],
           "repo_info": {
@@ -2410,10 +2410,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T10:41:13Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "schollz",
             "repo": "croc",
-            "stars": 40542,
+            "stars": 40548,
             "topics": [
               "data-transfer",
               "file-sharing",
@@ -2428,7 +2428,7 @@
         },
         {
           "node_type": "item",
-          "title": "22971⭐ 759🍴 Magic Wormhole",
+          "title": "22978⭐ 761🍴 Magic Wormhole",
           "description": ") - Get things from one computer to another, safely.",
           "children": [],
           "repo_info": {
@@ -2442,14 +2442,14 @@
             "open_issues": 184,
             "owner": "magic-wormhole",
             "repo": "magic-wormhole",
-            "stars": 22976,
+            "stars": 22980,
             "topics": []
           },
           "first_seen": "2026-08-28T13:27:42.076Z"
         },
         {
           "node_type": "item",
-          "title": "11544⭐ 696🍴 PairDrop",
+          "title": "11559⭐ 696🍴 PairDrop",
           "description": ") - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.",
           "children": [],
           "repo_info": {
@@ -2463,7 +2463,7 @@
             "open_issues": 119,
             "owner": "schlagmichdoch",
             "repo": "PairDrop",
-            "stars": 11559,
+            "stars": 11564,
             "topics": [
               "file-sharing",
               "indexeddb",
@@ -2477,7 +2477,7 @@
         },
         {
           "node_type": "item",
-          "title": "10516⭐ 548🍴 QRcp",
+          "title": "10515⭐ 548🍴 QRcp",
           "description": ") - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
           "children": [],
           "repo_info": {
@@ -2504,7 +2504,7 @@
         },
         {
           "node_type": "item",
-          "title": "7124⭐ 724🍴 OnionShare",
+          "title": "7130⭐ 726🍴 OnionShare",
           "description": ") - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.",
           "children": [],
           "repo_info": {
@@ -2515,10 +2515,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T04:14:05Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "onionshare",
             "repo": "onionshare",
-            "stars": 7130,
+            "stars": 7134,
             "topics": [
               "cross-platform",
               "file-sharing",
@@ -2546,10 +2546,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T17:34:25Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3168,
+            "stars": 3167,
             "topics": [
               "encryption-decryption",
               "file-upload",
@@ -2563,7 +2563,7 @@
         },
         {
           "node_type": "item",
-          "title": "2897⭐ 153🍴 Gokapi",
+          "title": "2898⭐ 153🍴 Gokapi",
           "description": ") - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
           "children": [],
           "repo_info": {
@@ -2577,7 +2577,7 @@
             "open_issues": 53,
             "owner": "Forceu",
             "repo": "Gokapi",
-            "stars": 2898,
+            "stars": 2900,
             "topics": [
               "backblaze-b2",
               "docker",
@@ -2596,7 +2596,7 @@
         },
         {
           "node_type": "item",
-          "title": "1275⭐ 116🍴 Sharik",
+          "title": "1276⭐ 115🍴 Sharik",
           "description": ") 💀 - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.",
           "children": [],
           "repo_info": {
@@ -2741,7 +2741,7 @@
                     "open_issues": 0,
                     "owner": "kb-1000",
                     "repo": "no-telemetry",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
@@ -2781,7 +2781,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3159⭐ 302🍴 Pokete",
+              "title": "3160⭐ 303🍴 Pokete",
               "description": ") - A small terminal based game in the style of a very popular and old game by Gamefreak.",
               "children": [],
               "repo_info": {
@@ -2830,7 +2830,7 @@
                 {
                   "node_type": "item",
                   "title": "Molly",
-                  "description": "3763⭐ 214🍴 Molly) - Signal-compatible fork client with some security enhancements.",
+                  "description": "3766⭐ 214🍴 Molly) - Signal-compatible fork client with some security enhancements.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2843,7 +2843,7 @@
                     "open_issues": 346,
                     "owner": "mollyim",
                     "repo": "mollyim-android",
-                    "stars": 3765,
+                    "stars": 3768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
@@ -2909,7 +2909,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "10609⭐ 391🍴 Dawarich",
+              "title": "10637⭐ 394🍴 Dawarich",
               "description": ") - Self-hosted alternative to Google Location History.",
               "children": [],
               "repo_info": {
@@ -2919,11 +2919,11 @@
                 "id": 776916297,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T21:22:01Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-11T06:38:02Z",
+                "open_issues": 207,
                 "owner": "Freika",
                 "repo": "dawarich",
-                "stars": 10631,
+                "stars": 10642,
                 "topics": [
                   "google-maps",
                   "gpslogger",
@@ -2947,7 +2947,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2615⭐ 653🍴 GPSlogger",
+              "title": "2615⭐ 654🍴 GPSlogger",
               "description": ") - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.",
               "children": [],
               "repo_info": {
@@ -2957,8 +2957,8 @@
                 "id": 1925457,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:33:11Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-10T11:15:31Z",
+                "open_issues": 197,
                 "owner": "mendhak",
                 "repo": "gpslogger",
                 "stars": 2615,
@@ -2991,7 +2991,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "18905⭐ 2046🍴 Docker mail server",
+              "title": "19162⭐ 2065🍴 Docker mail server",
               "description": ") - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.",
               "children": [],
               "repo_info": {
@@ -3005,7 +3005,7 @@
                 "open_issues": 88,
                 "owner": "docker-mailserver",
                 "repo": "docker-mailserver",
-                "stars": 19070,
+                "stars": 19290,
                 "topics": [
                   "container",
                   "dovecot",
@@ -3024,7 +3024,7 @@
             },
             {
               "node_type": "item",
-              "title": "15434⭐ 1552🍴 Mail-in-a-box",
+              "title": "15438⭐ 1553🍴 Mail-in-a-box",
               "description": ") - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
               "children": [],
               "repo_info": {
@@ -3038,7 +3038,7 @@
                 "open_issues": 618,
                 "owner": "mail-in-a-box",
                 "repo": "mailinabox",
-                "stars": 15437,
+                "stars": 15439,
                 "topics": [
                   "email",
                   "mail",
@@ -3050,7 +3050,7 @@
             },
             {
               "node_type": "item",
-              "title": "13574⭐ 1826🍴 Mailcow: dockerized",
+              "title": "13589⭐ 1828🍴 Mailcow: dockerized",
               "description": ") - The mailserver suite with the 'moo'.",
               "children": [],
               "repo_info": {
@@ -3064,7 +3064,7 @@
                 "open_issues": 527,
                 "owner": "mailcow",
                 "repo": "mailcow-dockerized",
-                "stars": 13585,
+                "stars": 13589,
                 "topics": [
                   "acme",
                   "clamav",
@@ -3089,7 +3089,7 @@
             },
             {
               "node_type": "item",
-              "title": "5895⭐ 232🍴 Mox",
+              "title": "5894⭐ 232🍴 Mox",
               "description": ") - Modern full-featured open source secure mail server for low-maintenance self-hosted email.",
               "children": [],
               "repo_info": {
@@ -3120,7 +3120,7 @@
                 {
                   "node_type": "item",
                   "title": "FairEmail",
-                  "description": "4691⭐ 706🍴 FairEmail) - Fully featured, open source, privacy friendly email app for Android.",
+                  "description": "4702⭐ 708🍴 FairEmail) - Fully featured, open source, privacy friendly email app for Android.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3129,11 +3129,11 @@
                     "id": 143298715,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T11:40:42Z",
+                    "last_commit": "2026-10-10T13:36:15Z",
                     "open_issues": 3,
                     "owner": "M66B",
                     "repo": "FairEmail",
-                    "stars": 4703,
+                    "stars": 4705,
                     "topics": [
                       "android",
                       "app",
@@ -3158,7 +3158,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "7036⭐ 653🍴 SimpleLogin",
+              "title": "7042⭐ 653🍴 SimpleLogin",
               "description": ") - Open source, self-hostable email aliasing service now owned by Proton (AGPL-3.0).",
               "children": [],
               "repo_info": {
@@ -3172,7 +3172,7 @@
                 "open_issues": 261,
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 7041,
+                "stars": 7044,
                 "topics": [
                   "aliases",
                   "email",
@@ -3185,7 +3185,7 @@
             },
             {
               "node_type": "item",
-              "title": "4888⭐ 266🍴 AnonAddy",
+              "title": "4896⭐ 267🍴 AnonAddy",
               "description": ") - Open source, self-hostable email aliasing and forwarding service, now named addy.io (AGPL-3.0).",
               "children": [],
               "repo_info": {
@@ -3199,7 +3199,7 @@
                 "open_issues": 61,
                 "owner": "anonaddy",
                 "repo": "anonaddy",
-                "stars": 4895,
+                "stars": 4896,
                 "topics": [
                   "email",
                   "pgp",
@@ -3223,7 +3223,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4125⭐ 185🍴 Dim",
+              "title": "4126⭐ 185🍴 Dim",
               "description": ") - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.",
               "children": [],
               "repo_info": {
@@ -3257,7 +3257,7 @@
             {
               "node_type": "item",
               "title": "mucke",
-              "description": "266⭐ 11🍴 mucke) - A music player for local files with unique custom playback options.",
+              "description": "267⭐ 11🍴 mucke) - A music player for local files with unique custom playback options.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3284,7 +3284,7 @@
             },
             {
               "node_type": "item",
-              "title": "9483⭐ 270🍴 psst*",
+              "title": "9486⭐ 271🍴 psst*",
               "description": ") - Fast and multi-platform Spotify client with native GUI.",
               "children": [],
               "repo_info": {
@@ -3298,14 +3298,14 @@
                 "open_issues": 154,
                 "owner": "jpochyla",
                 "repo": "psst",
-                "stars": 9484,
+                "stars": 9485,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "6790⭐ 280🍴 ncspot*",
+              "title": "6791⭐ 280🍴 ncspot*",
               "description": ") - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
               "children": [],
               "repo_info": {
@@ -3316,17 +3316,17 @@
                 "language": "Rust",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-09T18:16:02Z",
-                "open_issues": 212,
+                "open_issues": 216,
                 "owner": "hrkfdn",
                 "repo": "ncspot",
-                "stars": 6791,
+                "stars": 6792,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "2366⭐ 129🍴 Spot*",
+              "title": "2365⭐ 129🍴 Spot*",
               "description": ") - Native Spotify client built in GTK and Rust.",
               "children": [],
               "repo_info": {
@@ -3354,7 +3354,7 @@
             },
             {
               "node_type": "item",
-              "title": "49705⭐ 2328🍴 Spotube",
+              "title": "49749⭐ 2332🍴 Spotube",
               "description": ") - A lightweight free Spotify crossplatform-client.",
               "children": [],
               "repo_info": {
@@ -3368,7 +3368,7 @@
                 "open_issues": 869,
                 "owner": "team-spotube",
                 "repo": "spotube",
-                "stars": 49740,
+                "stars": 49769,
                 "topics": [
                   "android",
                   "android-client",
@@ -3389,7 +3389,7 @@
             },
             {
               "node_type": "item",
-              "title": "11798⭐ 642🍴 SimpMusic",
+              "title": "11865⭐ 641🍴 SimpMusic",
               "description": ") - Open source, actively maintained YouTube Music client for Android (successor to the discontinued ViMusic and RiMusic).",
               "children": [],
               "repo_info": {
@@ -3399,11 +3399,11 @@
                 "id": 628160489,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T19:01:46Z",
-                "open_issues": 348,
+                "last_commit": "2026-10-10T19:24:08Z",
+                "open_issues": 358,
                 "owner": "maxrave-dev",
                 "repo": "SimpMusic",
-                "stars": 11850,
+                "stars": 11891,
                 "topics": [
                   "android",
                   "android-16",
@@ -3443,7 +3443,7 @@
                 "open_issues": 96,
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1130,
+                "stars": 1129,
                 "topics": [
                   "alternative-frontends",
                   "cloudflare-workers",
@@ -3540,7 +3540,7 @@
         },
         {
           "node_type": "item",
-          "title": "63621⭐ 4831🍴 Memos",
+          "title": "63667⭐ 4840🍴 Memos",
           "description": ") - An open-source, self-hosted memo hub with knowledge management and socialization.",
           "children": [],
           "repo_info": {
@@ -3550,11 +3550,11 @@
             "id": 436297812,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:37:52Z",
+            "last_commit": "2026-10-11T02:52:05Z",
             "open_issues": 98,
             "owner": "usememos",
             "repo": "memos",
-            "stars": 63659,
+            "stars": 63690,
             "topics": [
               "docker",
               "foss",
@@ -3576,7 +3576,7 @@
         },
         {
           "node_type": "item",
-          "title": "56631⭐ 6325🍴 Joplin",
+          "title": "56661⭐ 6328🍴 Joplin",
           "description": ") - Note taking and to-do application with synchronisation and encryption capabilities.",
           "children": [],
           "repo_info": {
@@ -3586,11 +3586,11 @@
             "id": 79162682,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T00:24:21Z",
-            "open_issues": 651,
+            "last_commit": "2026-10-10T23:37:12Z",
+            "open_issues": 655,
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56655,
+            "stars": 56675,
             "topics": [
               "android",
               "dropbox",
@@ -3616,7 +3616,7 @@
         },
         {
           "node_type": "item",
-          "title": "46678⭐ 3048🍴 SiYuan",
+          "title": "46706⭐ 3052🍴 SiYuan",
           "description": ") - A local-first personal knowledge management system.",
           "children": [],
           "repo_info": {
@@ -3626,11 +3626,11 @@
             "id": 291438522,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T07:24:52Z",
+            "last_commit": "2026-10-11T07:36:50Z",
             "open_issues": 8,
             "owner": "siyuan-note",
             "repo": "siyuan",
-            "stars": 46705,
+            "stars": 46712,
             "topics": [
               "agentic-ai",
               "ai-agent",
@@ -3647,7 +3647,7 @@
         },
         {
           "node_type": "item",
-          "title": "38249⭐ 2577🍴 Trilium Notes",
+          "title": "38269⭐ 2576🍴 Trilium Notes",
           "description": ") - Build your personal knowledge base with Trilium Notes",
           "children": [],
           "repo_info": {
@@ -3657,11 +3657,11 @@
             "id": 92111509,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T07:35:07Z",
-            "open_issues": 645,
+            "last_commit": "2026-10-11T07:07:25Z",
+            "open_issues": 639,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 38265,
+            "stars": 38274,
             "topics": [
               "electron",
               "electron-app",
@@ -3688,7 +3688,7 @@
         },
         {
           "node_type": "item",
-          "title": "6766⭐ 919🍴 YankNote",
+          "title": "6765⭐ 919🍴 YankNote",
           "description": ") - A Hackable Markdown Note Application for Programmers.",
           "children": [],
           "repo_info": {
@@ -3730,7 +3730,7 @@
         },
         {
           "node_type": "item",
-          "title": "2180⭐ 198🍴 Notally",
+          "title": "2181⭐ 198🍴 Notally",
           "description": ") - A beautiful notes app (local only, no sync).",
           "children": [],
           "repo_info": {
@@ -3744,7 +3744,7 @@
             "open_issues": 12,
             "owner": "OmGodse",
             "repo": "Notally",
-            "stars": 2181,
+            "stars": 2182,
             "topics": [
               "android",
               "kotlin",
@@ -3762,7 +3762,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1102⭐ 170🍴 Nextcloud Notes app",
+              "title": "1104⭐ 171🍴 Nextcloud Notes app",
               "description": ") - An android client for Nextcloud Notes.",
               "children": [],
               "repo_info": {
@@ -3772,11 +3772,11 @@
                 "id": 43505757,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T08:54:57Z",
-                "open_issues": 263,
+                "last_commit": "2026-10-11T00:28:10Z",
+                "open_issues": 264,
                 "owner": "nextcloud",
                 "repo": "notes-android",
-                "stars": 1104,
+                "stars": 1105,
                 "topics": [
                   "android",
                   "android-client",
@@ -3823,7 +3823,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1985⭐ 144🍴 SongRec",
+          "title": "1987⭐ 144🍴 SongRec",
           "description": ") - An open-source Shazam client for Linux, written in Rust.",
           "children": [],
           "repo_info": {
@@ -3837,7 +3837,7 @@
             "open_issues": 71,
             "owner": "marin-m",
             "repo": "SongRec",
-            "stars": 1987,
+            "stars": 1986,
             "topics": [
               "audio-fingerprinting",
               "flatpak",
@@ -3936,11 +3936,11 @@
                 "id": 121898717,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T21:41:03Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-10T17:58:41Z",
+                "open_issues": 92,
                 "owner": "dani-garcia",
                 "repo": "vaultwarden",
-                "stars": 68772,
+                "stars": 68825,
                 "topics": [
                   "bitwarden",
                   "bitwarden-rs",
@@ -3962,7 +3962,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "8657⭐ 1040🍴 PrivateBin",
+          "title": "8658⭐ 1039🍴 PrivateBin",
           "description": ") - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
           "children": [],
           "repo_info": {
@@ -4007,10 +4007,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T17:34:25Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3168,
+            "stars": 3167,
             "topics": [
               "encryption-decryption",
               "file-upload",
@@ -4062,8 +4062,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "10434⭐ 607🍴 Sure",
-              "description": ") - Open Source and secure OS for your personal finances. Community maintained fork of the archived 54240⭐ 5681🍴 Maybe) project.",
+              "title": "10462⭐ 616🍴 Sure",
+              "description": ") - Open Source and secure OS for your personal finances. Community maintained fork of the archived 54236⭐ 5677🍴 Maybe) project.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4072,11 +4072,11 @@
                 "id": 1024661423,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T00:06:58Z",
-                "open_issues": 725,
+                "last_commit": "2026-10-11T07:22:44Z",
+                "open_issues": 711,
                 "owner": "we-promise",
                 "repo": "sure",
-                "stars": 10455,
+                "stars": 10476,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
@@ -4090,7 +4090,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1188⭐ 273🍴 My Expenses",
+              "title": "1189⭐ 273🍴 My Expenses",
               "description": ") - Featureful GPL licenced Android Expense Tracking App.",
               "children": [],
               "repo_info": {
@@ -4100,7 +4100,7 @@
                 "id": 3582763,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T23:07:35Z",
+                "last_commit": "2026-10-10T17:49:52Z",
                 "open_issues": 468,
                 "owner": "mtotschnig",
                 "repo": "MyExpenses",
@@ -4144,7 +4144,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2978⭐ 509🍴 Spliit",
+              "title": "2978⭐ 514🍴 Spliit",
               "description": ") - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.",
               "children": [],
               "repo_info": {
@@ -4154,11 +4154,11 @@
                 "id": 727945243,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T09:11:22Z",
-                "open_issues": 241,
+                "last_commit": "2026-10-11T04:40:51Z",
+                "open_issues": 231,
                 "owner": "spliit-app",
                 "repo": "spliit",
-                "stars": 2977,
+                "stars": 2979,
                 "topics": [
                   "nextjs",
                   "react",
@@ -4210,7 +4210,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "109⭐ 14🍴 Debitum",
+              "title": "110⭐ 14🍴 Debitum",
               "description": ") 💀 - With Debitum you can track all kinds of IOUs, be it money or lent items.",
               "children": [],
               "repo_info": {
@@ -4242,7 +4242,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9422⭐ 1351🍴 Ghostfolio",
+              "title": "9431⭐ 1353🍴 Ghostfolio",
               "description": ") - open source wealth management software built with web technology.",
               "children": [],
               "repo_info": {
@@ -4252,11 +4252,11 @@
                 "id": 357671824,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T18:20:48Z",
-                "open_issues": 322,
+                "last_commit": "2026-10-11T07:40:16Z",
+                "open_issues": 315,
                 "owner": "ghostfolio",
                 "repo": "ghostfolio",
-                "stars": 9431,
+                "stars": 9437,
                 "topics": [
                   "angular",
                   "etf",
@@ -4283,7 +4283,7 @@
             },
             {
               "node_type": "item",
-              "title": "4039⭐ 772🍴 Rotki",
+              "title": "4041⭐ 771🍴 Rotki",
               "description": ") - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.",
               "children": [],
               "repo_info": {
@@ -4293,11 +4293,11 @@
                 "id": 123909654,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T16:35:44Z",
-                "open_issues": 396,
+                "last_commit": "2026-10-10T22:24:07Z",
+                "open_issues": 400,
                 "owner": "rotki",
                 "repo": "rotki",
-                "stars": 4040,
+                "stars": 4042,
                 "topics": [
                   "accounting",
                   "analytics",
@@ -4332,7 +4332,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3473⭐ 794🍴 miniPaint",
+              "title": "3475⭐ 795🍴 miniPaint",
               "description": ") - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.",
               "children": [],
               "repo_info": {
@@ -4346,7 +4346,7 @@
                 "open_issues": 48,
                 "owner": "viliusle",
                 "repo": "miniPaint",
-                "stars": 3474,
+                "stars": 3475,
                 "topics": [
                   "browser",
                   "canvas",
@@ -4369,7 +4369,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "34090⭐ 1204🍴 Czkawka",
+              "title": "34171⭐ 1211🍴 Czkawka",
               "description": ") - Multi functional app to find duplicates and similar images etc.",
               "children": [],
               "repo_info": {
@@ -4383,7 +4383,7 @@
                 "open_issues": 338,
                 "owner": "qarmin",
                 "repo": "czkawka",
-                "stars": 34163,
+                "stars": 34187,
                 "topics": [
                   "cleaner",
                   "duplicates",
@@ -4400,7 +4400,7 @@
             },
             {
               "node_type": "item",
-              "title": "10500⭐ 875🍴 Krita",
+              "title": "10515⭐ 876🍴 Krita",
               "description": ") - Krita is a free and open source digital painting application",
               "children": [],
               "repo_info": {
@@ -4410,18 +4410,18 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T04:20:16Z",
+                "last_commit": "2026-10-11T04:34:13Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10511,
+                "stars": 10521,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:27:42.076Z"
             },
             {
               "node_type": "item",
-              "title": "10386⭐ 595🍴 RapidRAW",
+              "title": "10436⭐ 600🍴 RapidRAW",
               "description": ") - A beautiful, non-destructive and GPU-accelerated RAW image editor built with performance in mind. Lightweight (<20MB) cross-platform alternative to Adobe Lightroom. AGPL-3.0 licensed.",
               "children": [],
               "repo_info": {
@@ -4431,11 +4431,11 @@
                 "id": 1001684671,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T11:10:08Z",
-                "open_issues": 435,
+                "last_commit": "2026-10-10T17:00:42Z",
+                "open_issues": 440,
                 "owner": "CyberTimon",
                 "repo": "RapidRAW",
-                "stars": 10425,
+                "stars": 10448,
                 "topics": [
                   "color-grading",
                   "editing",
@@ -4495,7 +4495,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5935⭐ 331🍴 Google Photos Takeout Helper",
+              "title": "5939⭐ 330🍴 Google Photos Takeout Helper",
               "description": ") 💀 - Script that organizes the Google Takeout messy archive into one big chronological folder. Use this script to get out of Google Photos :).",
               "children": [],
               "repo_info": {
@@ -4509,7 +4509,7 @@
                 "open_issues": 88,
                 "owner": "TheLastGimbus",
                 "repo": "GooglePhotosTakeoutHelper",
-                "stars": 5937,
+                "stars": 5942,
                 "topics": [
                   "exif",
                   "exif-data",
@@ -4527,7 +4527,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "115793⭐ 7149🍴 Immich",
+              "title": "115939⭐ 7176🍴 Immich",
               "description": ") - Self-hosted photo and video backup solution directly from your mobile phone.",
               "children": [],
               "repo_info": {
@@ -4537,11 +4537,11 @@
                 "id": 455229168,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T03:51:28Z",
-                "open_issues": 697,
+                "last_commit": "2026-10-11T00:26:00Z",
+                "open_issues": 708,
                 "owner": "immich-app",
                 "repo": "immich",
-                "stars": 115896,
+                "stars": 115991,
                 "topics": [
                   "backup-tool",
                   "flutter",
@@ -4565,7 +4565,7 @@
             },
             {
               "node_type": "item",
-              "title": "8095⭐ 405🍴 LibrePhotos",
+              "title": "8098⭐ 406🍴 LibrePhotos",
               "description": ") - Active 2758⭐ 222🍴 OwnPhotos) fork. Self hosted alternative to Google Photos.",
               "children": [],
               "repo_info": {
@@ -4575,11 +4575,11 @@
                 "id": 312112440,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:21:51Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-10T17:34:53Z",
+                "open_issues": 124,
                 "owner": "LibrePhotos",
                 "repo": "librephotos",
-                "stars": 8098,
+                "stars": 8102,
                 "topics": [
                   "django",
                   "exif",
@@ -4604,8 +4604,8 @@
                 "id": 219554455,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T02:06:07Z",
-                "open_issues": 237,
+                "last_commit": "2026-10-11T04:03:56Z",
+                "open_issues": 238,
                 "owner": "nextcloud",
                 "repo": "photos",
                 "stars": 723,
@@ -4638,7 +4638,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "976⭐ 93🍴 Photok",
+              "title": "977⭐ 93🍴 Photok",
               "description": ") - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.",
               "children": [],
               "repo_info": {
@@ -4648,11 +4648,11 @@
                 "id": 287088448,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:06:13Z",
+                "last_commit": "2026-10-10T22:15:02Z",
                 "open_issues": 52,
                 "owner": "leonlatsch",
                 "repo": "Photok",
-                "stars": 977,
+                "stars": 978,
                 "topics": [
                   "android",
                   "android-app",
@@ -4682,7 +4682,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15255⭐ 1449🍴 Mobile Verification Toolkit",
+              "title": "15285⭐ 1456🍴 Mobile Verification Toolkit",
               "description": ") - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.",
               "children": [],
               "repo_info": {
@@ -4692,11 +4692,11 @@
                 "id": 386524895,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T12:19:56Z",
+                "last_commit": "2026-10-11T07:54:01Z",
                 "open_issues": 62,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 15273,
+                "stars": 15299,
                 "topics": [
                   "android",
                   "forensics",
@@ -4710,7 +4710,7 @@
             },
             {
               "node_type": "item",
-              "title": "14130⭐ 674🍴 OpenSnitch",
+              "title": "14139⭐ 676🍴 OpenSnitch",
               "description": ") - Interactive application firewall for GNU/Linux that helps users detect, monitor, and block unwanted outbound connections.",
               "children": [],
               "repo_info": {
@@ -4724,7 +4724,7 @@
                 "open_issues": 209,
                 "owner": "evilsocket",
                 "repo": "opensnitch",
-                "stars": 14136,
+                "stars": 14141,
                 "topics": [
                   "application-firewall",
                   "data-breach",
@@ -4738,7 +4738,7 @@
             },
             {
               "node_type": "item",
-              "title": "2317⭐ 196🍴 Whoami Project",
+              "title": "2320⭐ 196🍴 Whoami Project",
               "description": ") 💀 - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.",
               "children": [],
               "repo_info": {
@@ -4752,7 +4752,7 @@
                 "open_issues": 31,
                 "owner": "owerdogan",
                 "repo": "whoami-project",
-                "stars": 2320,
+                "stars": 2318,
                 "topics": [
                   "anonymity",
                   "arch-linux",
@@ -4767,7 +4767,7 @@
             },
             {
               "node_type": "item",
-              "title": "372⭐ 29🍴 MAT2",
+              "title": "373⭐ 29🍴 MAT2",
               "description": ") - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.",
               "children": [],
               "repo_info": {
@@ -4781,7 +4781,7 @@
                 "open_issues": 3,
                 "owner": "jvoisin",
                 "repo": "mat2",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "anonymity",
                   "camera",
@@ -4802,7 +4802,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5550⭐ 344🍴 RethinkDNS + Firewall",
+              "title": "5556⭐ 344🍴 RethinkDNS + Firewall",
               "description": ") - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.",
               "children": [],
               "repo_info": {
@@ -4813,10 +4813,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T17:43:36Z",
-                "open_issues": 658,
+                "open_issues": 653,
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5555,
+                "stars": 5560,
                 "topics": [
                   "android",
                   "android-app",
@@ -4851,7 +4851,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "9698⭐ 545🍴 Fluent Reader",
+          "title": "9706⭐ 543🍴 Fluent Reader",
           "description": ") - Open source desktop RSS reader for Windows, macOS and Linux.",
           "children": [],
           "repo_info": {
@@ -4865,7 +4865,7 @@
             "open_issues": 393,
             "owner": "yang991178",
             "repo": "fluent-reader",
-            "stars": 9703,
+            "stars": 9706,
             "topics": [
               "electron",
               "linux",
@@ -4882,7 +4882,7 @@
         {
           "node_type": "item",
           "title": "Read You",
-          "description": "7582⭐ 336🍴 Read You) - Open source Material You RSS reader for Android, local or synced with self-hosted services.",
+          "description": "7586⭐ 336🍴 Read You) - Open source Material You RSS reader for Android, local or synced with self-hosted services.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4892,10 +4892,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-08-11T17:26:59Z",
-            "open_issues": 476,
+            "open_issues": 478,
             "owner": "ReadYouApp",
             "repo": "ReadYou",
-            "stars": 7585,
+            "stars": 7586,
             "topics": [
               "android",
               "compose",
@@ -4913,7 +4913,7 @@
         {
           "node_type": "item",
           "title": "Feeder",
-          "description": "3066⭐ 213🍴 Feeder) - Open source RSS reader for Android that fetches feeds directly on your device, with no account.",
+          "description": "3069⭐ 214🍴 Feeder) - Open source RSS reader for Android that fetches feeds directly on your device, with no account.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4922,11 +4922,11 @@
             "id": 23427654,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T08:26:31Z",
-            "open_issues": 230,
+            "last_commit": "2026-10-10T12:26:43Z",
+            "open_issues": 229,
             "owner": "spacecowboy",
             "repo": "Feeder",
-            "stars": 3068,
+            "stars": 3071,
             "topics": [
               "android",
               "atom",
@@ -4942,7 +4942,7 @@
         {
           "node_type": "item",
           "title": "Capy Reader",
-          "description": "1403⭐ 78🍴 Capy Reader) - Open source RSS reader for Android, local or synced with Miniflux and FreshRSS.",
+          "description": "1404⭐ 78🍴 Capy Reader) - Open source RSS reader for Android, local or synced with Miniflux and FreshRSS.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4951,8 +4951,8 @@
             "id": 610083236,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T13:28:07Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-10T12:07:01Z",
+            "open_issues": 14,
             "owner": "jocmp",
             "repo": "capyreader",
             "stars": 1405,
@@ -4984,7 +4984,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "38112⭐ 3474🍴 SearxNG",
+          "title": "38191⭐ 3486🍴 SearxNG",
           "description": ") - Free internet metasearch engine which aggregates results from various search services and databases.",
           "children": [],
           "repo_info": {
@@ -4995,10 +4995,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-09T19:03:13Z",
-            "open_issues": 191,
+            "open_issues": 193,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 38174,
+            "stars": 38210,
             "topics": [
               "bing",
               "brave",
@@ -5035,7 +5035,7 @@
             "open_issues": 0,
             "owner": "liameno",
             "repo": "librengine",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "cpp",
               "crawler",
@@ -5057,7 +5057,7 @@
       "title": "Search Engines"
     },
     {
-      "description": "[!NOTE] The fediverseThe fediverse is a \"federated\" \"universe\" of social network platforms that are able to talk to one another through a standard and open protocol. This means that you can consume content on any network from any of these networks. You are not locked to a single provider, you are free to choose. Please 🌎 watch this video by FramaSoft that illustrates the concept very good.Ideally, we should all move to the fediverse and abandon the centralized and monopolized social networks that are now the most popular (Twitter, Reddit, Instagram...).All the apps compatible with the Fediverse (ActivityPub) are marked with a 🧩\n[!NOTE] Alternative frontends and clientsAlternative frontends are good to protect your individual privacy. You can still consume the contents of privative and privacy-harmful services with protection over your privacy and some anonymity. Even using most these alternative frontends, still, the privative services will receive requests about the content you are consuming (even not knowing it is you). This sitll harms the collective privacy and adds data to their algorithms in some ways. Only the alternative frontends (or clients) that act as a proxy will hide your real IP from the content provider.You can use these browser extensions and apps to automatically redirect any links to privacy-respecting alternative frontends: 4075⭐ 147🍴 LibRedirect) - A web extension that redirects YouTube, Twitter... requests to alternative privacy friendly frontends and backends.🌎 UntrackMe - Transform Youtube, Twitter & other links to their free and open source alternatives.",
+      "description": "[!NOTE] The fediverseThe fediverse is a \"federated\" \"universe\" of social network platforms that are able to talk to one another through a standard and open protocol. This means that you can consume content on any network from any of these networks. You are not locked to a single provider, you are free to choose. Please 🌎 watch this video by FramaSoft that illustrates the concept very good.Ideally, we should all move to the fediverse and abandon the centralized and monopolized social networks that are now the most popular (Twitter, Reddit, Instagram...).All the apps compatible with the Fediverse (ActivityPub) are marked with a 🧩\n[!NOTE] Alternative frontends and clientsAlternative frontends are good to protect your individual privacy. You can still consume the contents of privative and privacy-harmful services with protection over your privacy and some anonymity. Even using most these alternative frontends, still, the privative services will receive requests about the content you are consuming (even not knowing it is you). This sitll harms the collective privacy and adds data to their algorithms in some ways. Only the alternative frontends (or clients) that act as a proxy will hide your real IP from the content provider.You can use these browser extensions and apps to automatically redirect any links to privacy-respecting alternative frontends: 4078⭐ 147🍴 LibRedirect) - A web extension that redirects YouTube, Twitter... requests to alternative privacy friendly frontends and backends.🌎 UntrackMe - Transform Youtube, Twitter & other links to their free and open source alternatives.",
       "items": [
         {
           "children": [
@@ -5077,7 +5077,7 @@
                 "open_issues": 168,
                 "owner": "Plume-org",
                 "repo": "Plume",
-                "stars": 2224,
+                "stars": 2225,
                 "topics": [
                   "activitypub",
                   "activitystreams",
@@ -5115,7 +5115,7 @@
                 "open_issues": 17,
                 "owner": "zyachel",
                 "repo": "quetre",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "alternative-frontends",
                   "foss",
@@ -5167,7 +5167,7 @@
             },
             {
               "node_type": "item",
-              "title": "25155⭐ 2812🍴 Invidious",
+              "title": "25177⭐ 2817🍴 Invidious",
               "description": ") - Alternative and privacy respecting YouTube frontend.",
               "children": [],
               "repo_info": {
@@ -5178,10 +5178,10 @@
                 "language": "Crystal",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-09T21:21:19Z",
-                "open_issues": 496,
+                "open_issues": 497,
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 25171,
+                "stars": 25200,
                 "topics": [
                   "agplv3",
                   "hacktoberfest",
@@ -5197,7 +5197,7 @@
             },
             {
               "node_type": "item",
-              "title": "10271⭐ 885🍴 Piped",
+              "title": "10277⭐ 884🍴 Piped",
               "description": ") - An alternative privacy-friendly YouTube frontend which is efficient by design.",
               "children": [],
               "repo_info": {
@@ -5207,11 +5207,11 @@
                 "id": 311916226,
                 "language": "Vue",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T13:12:41Z",
+                "last_commit": "2026-10-10T09:54:04Z",
                 "open_issues": 324,
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10277,
+                "stars": 10279,
                 "topics": [
                   "activej",
                   "dearrow",
@@ -5230,7 +5230,7 @@
             },
             {
               "node_type": "item",
-              "title": "1474⭐ 91🍴 ViewTube",
+              "title": "1473⭐ 91🍴 ViewTube",
               "description": ") - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js",
               "children": [],
               "repo_info": {
@@ -5296,7 +5296,7 @@
             },
             {
               "node_type": "item",
-              "title": "22024⭐ 1529🍴 FreeTube",
+              "title": "22028⭐ 1530🍴 FreeTube",
               "description": ") - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).",
               "children": [],
               "repo_info": {
@@ -5306,11 +5306,11 @@
                 "id": 123220152,
                 "language": "Vue",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T18:47:41Z",
-                "open_issues": 292,
+                "last_commit": "2026-10-11T07:51:29Z",
+                "open_issues": 293,
                 "owner": "FreeTubeApp",
                 "repo": "FreeTube",
-                "stars": 22030,
+                "stars": 22032,
                 "topics": [
                   "freetube",
                   "privacy",
@@ -5325,7 +5325,7 @@
             {
               "node_type": "item",
               "title": "LibreTube",
-              "description": "12789⭐ 680🍴 LibreTube) - An alternative frontend for YouTube, for Android using Piped.",
+              "description": "12798⭐ 682🍴 LibreTube) - An alternative frontend for YouTube, for Android using Piped.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5335,10 +5335,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-08T22:35:43Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "libre-tube",
                 "repo": "LibreTube",
-                "stars": 12794,
+                "stars": 12798,
                 "topics": [
                   "android",
                   "kotlin",
@@ -5353,7 +5353,7 @@
             },
             {
               "node_type": "item",
-              "title": "3732⭐ 173🍴 Yattee",
+              "title": "3736⭐ 174🍴 Yattee",
               "description": ") - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.",
               "children": [],
               "repo_info": {
@@ -5364,7 +5364,7 @@
                 "language": "Swift",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T11:05:24Z",
-                "open_issues": 228,
+                "open_issues": 229,
                 "owner": "yattee",
                 "repo": "yattee",
                 "stars": 3737,
@@ -5385,7 +5385,7 @@
             {
               "node_type": "item",
               "title": "SkyTube",
-              "description": "2788⭐ 350🍴 SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.",
+              "description": "2789⭐ 350🍴 SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5398,7 +5398,7 @@
                 "open_issues": 268,
                 "owner": "SkyTubeTeam",
                 "repo": "SkyTube",
-                "stars": 2789,
+                "stars": 2790,
                 "topics": [
                   "android",
                   "app",
@@ -5415,7 +5415,7 @@
             {
               "node_type": "item",
               "title": "Clipious",
-              "description": "1260⭐ 56🍴 Clipious) 💀 Invidious client for android",
+              "description": "1261⭐ 56🍴 Clipious) 💀 Invidious client for android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5445,7 +5445,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2146⭐ 155🍴 ProxiTok",
+              "title": "2145⭐ 155🍴 ProxiTok",
               "description": ") - Open source alternative frontend for TikTok",
               "children": [],
               "repo_info": {
@@ -5459,7 +5459,7 @@
                 "open_issues": 51,
                 "owner": "pablouser1",
                 "repo": "ProxiTok",
-                "stars": 2145,
+                "stars": 2146,
                 "topics": [
                   "alternative-frontends",
                   "php",
@@ -5481,7 +5481,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "63621⭐ 4831🍴 Memos",
+                  "title": "63667⭐ 4840🍴 Memos",
                   "description": ") - An open-source, self-hosted memo hub with knowledge management and socialization.",
                   "children": [],
                   "repo_info": {
@@ -5491,11 +5491,11 @@
                     "id": 436297812,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T00:37:52Z",
+                    "last_commit": "2026-10-11T02:52:05Z",
                     "open_issues": 98,
                     "owner": "usememos",
                     "repo": "memos",
-                    "stars": 63659,
+                    "stars": 63690,
                     "topics": [
                       "docker",
                       "foss",
@@ -5538,7 +5538,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14479,
+                    "stars": 14478,
                     "topics": [
                       "nim",
                       "privacy",
@@ -5551,7 +5551,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1453⭐ 31🍴 Squawker",
+                  "title": "1459⭐ 31🍴 Squawker",
                   "description": ") - Open source Twitter client for Android, the maintained fork of Fritter.",
                   "children": [],
                   "repo_info": {
@@ -5562,10 +5562,10 @@
                     "language": "Dart",
                     "license": "MIT",
                     "last_commit": "2026-10-10T01:35:50Z",
-                    "open_issues": 216,
+                    "open_issues": 217,
                     "owner": "j-fbriere",
                     "repo": "squawker",
-                    "stars": 1459,
+                    "stars": 1460,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:27:42.076Z"
@@ -5594,8 +5594,8 @@
                 "id": 704255347,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T22:12:59Z",
-                "open_issues": 131,
+                "last_commit": "2026-10-10T14:03:30Z",
+                "open_issues": 136,
                 "owner": "MbinOrg",
                 "repo": "mbin",
                 "stars": 431,
@@ -5621,7 +5621,7 @@
             },
             {
               "node_type": "item",
-              "title": "3831⭐ 279🍴 Redlib",
+              "title": "3837⭐ 281🍴 Redlib",
               "description": ") - An alternative private front-end to Reddit, with its origins in Libreddit.",
               "children": [],
               "repo_info": {
@@ -5635,7 +5635,7 @@
                 "open_issues": 228,
                 "owner": "redlib-org",
                 "repo": "redlib",
-                "stars": 3835,
+                "stars": 3837,
                 "topics": [
                   "privacy",
                   "privacy-friendly-alternatives",
@@ -5654,7 +5654,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "11580⭐ 1184🍴 Owncast",
+              "title": "11583⭐ 1184🍴 Owncast",
               "description": ") - Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
               "children": [],
               "repo_info": {
@@ -5664,11 +5664,11 @@
                 "id": 266445736,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-10T02:21:41Z",
-                "open_issues": 168,
+                "last_commit": "2026-10-11T01:34:34Z",
+                "open_issues": 166,
                 "owner": "owncast",
                 "repo": "owncast",
-                "stars": 11582,
+                "stars": 11584,
                 "topics": [
                   "activitypub",
                   "broadcasting",
@@ -5731,7 +5731,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "632⭐ 41🍴 TranslateLocally",
+          "title": "634⭐ 41🍴 TranslateLocally",
           "description": ") – Free/open-source neural MT, runs offline on your computer",
           "children": [],
           "repo_info": {
@@ -5766,7 +5766,7 @@
             "open_issues": 47,
             "owner": "thedaviddelta",
             "repo": "lingva-translate",
-            "stars": 1850,
+            "stars": 1851,
             "topics": []
           },
           "first_seen": "2026-08-28T13:27:42.076Z"
@@ -5779,7 +5779,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "15105⭐ 732🍴 CrowdSec",
+          "title": "15130⭐ 732🍴 CrowdSec",
           "description": ") - An open-source, modernized and collaborative fail2ban.",
           "children": [],
           "repo_info": {
@@ -5790,10 +5790,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-09T14:47:46Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15127,
+            "stars": 15139,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -5819,7 +5819,7 @@
         },
         {
           "node_type": "item",
-          "title": "12514⭐ 824🍴 Hetty",
+          "title": "12514⭐ 823🍴 Hetty",
           "description": ") - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.",
           "children": [],
           "repo_info": {
@@ -5833,7 +5833,7 @@
             "open_issues": 50,
             "owner": "dstotijn",
             "repo": "hetty",
-            "stars": 12514,
+            "stars": 12515,
             "topics": [
               "bugbounty",
               "http",
@@ -5895,7 +5895,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "30057⭐ 8076🍴 Jitsi Meet",
+          "title": "30066⭐ 8073🍴 Jitsi Meet",
           "description": ") - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.",
           "children": [],
           "repo_info": {
@@ -5906,10 +5906,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T20:47:26Z",
-            "open_issues": 138,
+            "open_issues": 141,
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 30066,
+            "stars": 30069,
             "topics": [
               "debian",
               "deep-video",
@@ -5927,7 +5927,7 @@
         },
         {
           "node_type": "item",
-          "title": "1902⭐ 299🍴 PeerCalls",
+          "title": "1901⭐ 299🍴 PeerCalls",
           "description": ") - Group peer to peer video calls for everyone written in Go and TypeScript.",
           "children": [],
           "repo_info": {
@@ -5941,7 +5941,7 @@
             "open_issues": 51,
             "owner": "peer-calls",
             "repo": "peer-calls",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "conference",
               "p2p",
@@ -6033,7 +6033,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "14208⭐ 2639🍴 Vencord",
+              "title": "14222⭐ 2644🍴 Vencord",
               "description": ") - A Discord client mod that does things differently.",
               "children": [],
               "repo_info": {
@@ -6044,10 +6044,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T18:59:37Z",
-                "open_issues": 292,
+                "open_issues": 295,
                 "owner": "Vendicated",
                 "repo": "Vencord",
-                "stars": 14218,
+                "stars": 14229,
                 "topics": [
                   "discord",
                   "mod",
@@ -6062,7 +6062,7 @@
             {
               "node_type": "item",
               "title": "Aliucord",
-              "description": "4884⭐ 234🍴 Aliucord) - A modification for the Android Discord app that fully 4884⭐ 234🍴 disables the Discord Tracking).",
+              "description": "4891⭐ 233🍴 Aliucord) - A modification for the Android Discord app that fully 4891⭐ 233🍴 disables the Discord Tracking).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6075,7 +6075,7 @@
                 "open_issues": 105,
                 "owner": "Aliucord",
                 "repo": "Aliucord",
-                "stars": 4889,
+                "stars": 4891,
                 "topics": [
                   "android",
                   "discord",
@@ -6088,7 +6088,7 @@
             {
               "node_type": "item",
               "title": "🌎 OpenAsar",
-              "description": "An open-source alternative of Discord desktop's app.asar that comes with a 3035⭐ 100🍴 No Tracking) option that disables Discord's crash and error reporting.",
+              "description": "An open-source alternative of Discord desktop's app.asar that comes with a 3036⭐ 99🍴 No Tracking) option that disables Discord's crash and error reporting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6108,7 +6108,7 @@
             },
             {
               "node_type": "item",
-              "title": "2451⭐ 112🍴 WebCord",
+              "title": "2452⭐ 112🍴 WebCord",
               "description": ") - A Discord and Fosscord API-less client made with the Electron.",
               "children": [],
               "repo_info": {
@@ -6182,7 +6182,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "93213⭐ 9150🍴 OpenCut",
+          "title": "93431⭐ 9173🍴 OpenCut",
           "description": ") - [beta] A free, open-source video editor for web, desktop, and mobile.",
           "children": [],
           "repo_info": {
@@ -6196,7 +6196,7 @@
             "open_issues": 375,
             "owner": "OpenCut-app",
             "repo": "OpenCut",
-            "stars": 93381,
+            "stars": 93512,
             "topics": [
               "editor",
               "oss",
@@ -6207,7 +6207,7 @@
         },
         {
           "node_type": "item",
-          "title": "44366⭐ 2205🍴 LosslessCut",
+          "title": "44436⭐ 2209🍴 LosslessCut",
           "description": ") - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.",
           "children": [],
           "repo_info": {
@@ -6221,7 +6221,7 @@
             "open_issues": 323,
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 44428,
+            "stars": 44455,
             "topics": [
               "codec",
               "cut",
@@ -6247,7 +6247,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "8326⭐ 307🍴 Cromite",
+              "title": "8338⭐ 307🍴 Cromite",
               "description": ") - Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy.",
               "children": [],
               "repo_info": {
@@ -6261,7 +6261,7 @@
                 "open_issues": 572,
                 "owner": "uazo",
                 "repo": "cromite",
-                "stars": 8338,
+                "stars": 8340,
                 "topics": []
               },
               "first_seen": "2026-10-01T07:54:52.864Z"
@@ -6275,7 +6275,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "27912⭐ 1264🍴 Ungoogled Chromium",
+              "title": "27939⭐ 1264🍴 Ungoogled Chromium",
               "description": ") - A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.",
               "children": [],
               "repo_info": {
@@ -6289,7 +6289,7 @@
                 "open_issues": 182,
                 "owner": "ungoogled-software",
                 "repo": "ungoogled-chromium",
-                "stars": 27938,
+                "stars": 27946,
                 "topics": [
                   "chromium",
                   "control",
@@ -6313,7 +6313,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "4075⭐ 147🍴 LibRedirect",
+                  "title": "4078⭐ 147🍴 LibRedirect",
                   "description": ") - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.",
                   "children": [],
                   "repo_info": {
@@ -6323,7 +6323,7 @@
                     "id": 434591591,
                     "language": "JSON",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-09T13:09:35Z",
+                    "last_commit": "2026-10-10T08:24:32Z",
                     "open_issues": 42,
                     "owner": "libredirect",
                     "repo": "browser_extension",
@@ -6361,11 +6361,11 @@
                         "id": 33263118,
                         "language": "JavaScript",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-10-08T18:58:13Z",
+                        "last_commit": "2026-10-10T21:51:55Z",
                         "open_issues": 15,
                         "owner": "gorhill",
                         "repo": "uBlock",
-                        "stars": 68452,
+                        "stars": 68481,
                         "topics": [
                           "blocker",
                           "browser-extension",
@@ -6389,7 +6389,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "22553⭐ 1414🍴 Single File",
+                  "title": "22571⭐ 1412🍴 Single File",
                   "description": ") - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.",
                   "children": [],
                   "repo_info": {
@@ -6399,11 +6399,11 @@
                     "id": 906022,
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-05T22:50:34Z",
-                    "open_issues": 103,
+                    "last_commit": "2026-10-10T14:19:24Z",
+                    "open_issues": 104,
                     "owner": "gildas-lormeau",
                     "repo": "SingleFile",
-                    "stars": 22565,
+                    "stars": 22574,
                     "topics": [
                       "annotations",
                       "archive",
@@ -6442,7 +6442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:49:52.412Z",
+    "last_updated": "2026-10-11T07:57:26.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. With repository stars⭐ and forks🍴",
@@ -6450,11 +6450,11 @@
       "id": 520640800,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-08T16:31:04Z",
+      "last_commit": "2026-10-10T16:29:33Z",
       "open_issues": 1,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-privacy",
-      "stars": 53,
+      "stars": 54,
       "topics": [
         "alternatives",
         "apps",
@@ -6473,7 +6473,7 @@
         "services"
       ]
     },
-    "original_repository_sha": "4b0ee2366c3f18ae81a13984e85ebf7e24003521",
+    "original_repository_sha": "0f921d35f43fd515a932016fddb0884c454985d6",
     "enhanced_repository": "enhansome/fucking-enhansome-privacy",
     "enhanced_repository_description": null,
     "title": "Awesome Privacy with stars"
